@@ -11,7 +11,7 @@ Microsoft.Extensions.Hosting 6.0.1
 
 Microsoft.Extensions.Hosting.Abstractions 6.0.0
 
-## Referência
+## Fonte de pesquisa
 https://fluentscheduler.github.io/
 
 https://www.macoratti.net/20/03/c_fluentsch1.htm
