@@ -1,6 +1,6 @@
 # Agendador de Tarefas
 
-Aplicação simples do tipo Console Application, reponsável por executar as tarefas agendadas usando o pacote FluentScheduler.
+Aplicação simples do tipo Console Application, responsável por executar as tarefas agendadas usando o pacote FluentScheduler.
 
 ## Ficha técnica 
 .Net Core 3.1
