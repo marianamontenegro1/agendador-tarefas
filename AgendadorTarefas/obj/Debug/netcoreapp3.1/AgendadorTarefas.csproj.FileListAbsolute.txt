@@ -5,14 +5,6 @@ C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Deb
 C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Debug\netcoreapp3.1\AgendadorTarefas.dll
 C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Debug\netcoreapp3.1\AgendadorTarefas.pdb
 C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Debug\netcoreapp3.1\FluentScheduler.dll
-C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.GeneratedMSBuildEditorConfig.editorconfig
-C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.AssemblyInfoInputs.cache
-C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.AssemblyInfo.cs
-C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.csproj.CoreCompileInputs.cache
-C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.csproj.CopyComplete
-C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.dll
-C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.pdb
-C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.genruntimeconfig.cache
 C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
@@ -52,4 +44,12 @@ C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Deb
 C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
 C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.AssemblyInfoInputs.cache
+C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.AssemblyInfo.cs
+C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.csproj.CoreCompileInputs.cache
+C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.csproj.CopyComplete
+C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.dll
+C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.pdb
+C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.genruntimeconfig.cache
 C:\projetos\dotnet\Intermediario\Aula6\AgendadorTarefas\AgendadorTarefas\obj\Debug\netcoreapp3.1\AgendadorTarefas.csproj.AssemblyReference.cache
