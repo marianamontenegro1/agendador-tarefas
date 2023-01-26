@@ -17,3 +17,5 @@ https://fluentscheduler.github.io/
 https://www.macoratti.net/20/03/c_fluentsch1.htm
 
 https://damienvdk.com/index.php/2020/05/17/plan-your-jobs-with-net-core/
+
+https://learn.microsoft.com/en-us/dotnet/core/tutorials/publishing-with-visual-studio?pivots=dotnet-7-0
